@@ -1,0 +1,11 @@
+In a betting company, becouse there you need live data
+
+
+
+Process	A	B	C	D	 E	F	 G  H
+       	2 5	8 12 16 21 34 55
+
+
+In robin scheduling, all processes in the ready queue have equal time units.
+The CPU time is divided evenly among the processes.
+If a process was listed to times, it would be grant twice the CPU time of the other processes.
